@@ -6,7 +6,7 @@ A FastAPI service that uses pgvector for vector similarity search and embeddings
 
 ```bash
 # Clone and setup
-git clone git@github.com:yourusername/fastapi-pgvector.git
+git clone git@github.com:anish-pillai/fastapi-pgvector.git
 cd fastapi-pgvector
 
 # Create and activate virtual environment
