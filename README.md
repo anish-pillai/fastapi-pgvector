@@ -76,6 +76,7 @@ See [DEVELOPER.md](DEVELOPER.md) for detailed development setup and guidelines.
 ## Environment Variables
 
 - `DATABASE_URL`: PostgreSQL connection string (default: "postgresql+psycopg2://postgres@localhost:5432/postgres")
+- `OPENAI_API_KEY`: Your OpenAI key from [OpenAI API keys](https://platform.openai.com/api-keys)
 
 ## License
 

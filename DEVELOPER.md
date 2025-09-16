@@ -240,7 +240,8 @@ pdm add -d package-name
 
 1. **Environment Setup**:
    ```bash
-   export DATABASE_URL="postgresql+psycopg2://user:pass@host:5432/dbname"
+   cd server
+   cp .env.example .env
    ```
 
 2. **Start Server**:
